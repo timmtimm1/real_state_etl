@@ -113,7 +113,7 @@ etl_project/
 │   └── scraping_report_20241106_171212.json
 │
 ├── SQL_viz/
-│   ├── results/                # Resultados das análises
+│   ├── results                # Resultados das análises
 │   │   ├── analysis_report_20241111.json
 │   │   ├── investment_score_20241111.csv
 │   │   ├── investment_score_20241111.json
