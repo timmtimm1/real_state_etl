@@ -30,7 +30,7 @@ Um pipeline ETL completo para análise do mercado imobiliário brasileiro, com c
   - [Relatórios Gerados](#-relatórios-gerados)
   - [Métricas Analisadas](#-principais-métricas-analisadas)
 - [Limitações e Considerações](#-limitações-e-considerações)
-- [Licença](#-licença
+- [Licença](#-licença)
 ## 🎯 Visão Geral
 
 Este projeto implementa um pipeline de ETL (Extract, Transform, Load) para análise do mercado imobiliário brasileiro, utilizando dados do OLX. O sistema realiza:
