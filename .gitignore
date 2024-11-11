@@ -1,0 +1,153 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_metadata/
+*.nbconvert.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.sublime-workspace
+*.sublime-project
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+.python-version
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.pickle
+*.pkl
+!data/processed/*.csv  # Permitir CSVs processados específicos
+
+# Database
+*.sql
+*.sqlite
+*.db
+database.ini
+db_config.yaml
+pgdata/
+!sql/schema.sql     # Permitir arquivo de schema
+!sql/queries.sql    # Permitir arquivo de queries
+
+# Logs e Cache
+.cache/
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Scrapy
+.scrapy
+dbs/
+items/
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
+*.temp
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
+.*.swp
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Arquivos de credenciais e configuração
+config.ini
+credentials.json
+secrets.yaml
+auth.json
+*.pem
+*.key
+*.cert
+
+# Arquivos de visualização
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+!visualizations/*.png  # Permitir imagens na pasta de visualizações
+
+# Coverage e testes
+.coverage
+.tox/
+.coverage.*
+.pytest_cache/
+htmlcov/
+coverage.xml
+*.cover
+
+# Diretórios de build
+build/
+dist/
+*.pyc
+
+# Documentação
+docs/_build/
+site/
+
+# Virtual Environment
+.Python
+pip-selfcheck.json
+
+# Ferramentas de Análise
+.pylint.d/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Outros
+*.bak
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*~
+.history
+.~lock.*#
