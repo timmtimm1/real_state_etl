@@ -1,0 +1,58 @@
+{
+    "analysis_date": "20241111",
+    "queries_executed": [
+        "premium_analysis.sql",
+        "regional_analysis.sql",
+        "top_neighborhoods.sql",
+        "investment_score.sql"
+    ],
+    "summary": {
+        "premium_analysis": {
+            "records": 1,
+            "columns": [
+                "total_premium_properties",
+                "avg_area",
+                "avg_bedrooms",
+                "avg_bathrooms",
+                "avg_parking_spots",
+                "avg_price",
+                "avg_price_per_m2"
+            ]
+        },
+        "regional_analysis": {
+            "records": 5,
+            "columns": [
+                "region",
+                "total_properties",
+                "avg_price",
+                "avg_price_per_m2",
+                "avg_area",
+                "market_share_percentage"
+            ]
+        },
+        "top_neighborhoods": {
+            "records": 20,
+            "columns": [
+                "city",
+                "state",
+                "neighborhood",
+                "listing_count",
+                "avg_price",
+                "avg_price_per_m2",
+                "avg_area",
+                "market_share"
+            ]
+        },
+        "investment_score": {
+            "records": 20,
+            "columns": [
+                "city",
+                "state",
+                "total_listings",
+                "avg_price_per_m2",
+                "median_price_per_m2",
+                "investment_score"
+            ]
+        }
+    }
+}

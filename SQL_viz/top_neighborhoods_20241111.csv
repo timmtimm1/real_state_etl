@@ -1,0 +1,21 @@
+city,state,neighborhood,listing_count,avg_price,avg_price_per_m2,avg_area,market_share
+Palmas,to,Plano Diretor Sul,1224,991313.49,5835.62,169.48,70.43
+Londrina,pr,Brasília,703,477399.45,4677.35,103.95,81.37
+Manaus,am,Ponta Negra,555,1444144.21,6703.64,229.72,29.87
+Recife,pe,Boa Viagem,373,923261.58,9198.78,100.63,37.49
+Goiânia,go,Setor Bueno,369,1167731.52,9329.19,123.84,24.5
+Palmas,to,Plano Diretor Norte,292,835812.1,5158.87,171.32,16.8
+São Luís,ma,Turu,277,548023.12,5704.95,90.96,19.67
+Vila Velha,es,Praia de Itaparica,268,1175717.45,10594.3,109.29,33.17
+Maceió,al,Jatiúca,268,809626.17,9457.15,92.7,20.46
+João Pessoa,pb,Jardim Oceania,257,658757.56,9841.56,77.12,16.16
+Natal,rn,Ponta Negra,251,547869.33,6023.72,105.58,24.66
+Parnamirim,rn,Nova Parnamirim,248,377286.08,3684.69,112.71,35.79
+Vila Velha,es,Praia da Costa,227,1232579.98,10284.73,124.04,28.09
+Porto Velho,ro,Rio Madeira,224,770171.89,5493.08,146.12,13.85
+Fortaleza,ce,Meireles,216,1666931.34,10601.69,158.6,19.67
+João Pessoa,pb,Manaíra,214,635593.73,7781.8,101.45,13.46
+Goiânia,go,Setor Marista,206,1743378.79,10815.28,158.79,13.68
+Maceió,al,Ponta Verde,197,1120995.86,9516.91,117.34,15.04
+São Luís,ma,Renascença,197,978856.96,8565.95,118.7,13.99
+Teresina,pi,Uruguai,191,1096580.23,6183.18,154.06,10.8
