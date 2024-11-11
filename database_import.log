@@ -1,0 +1,59 @@
+2024-11-04 09:59:18,447 - INFO - Attempting to create database and tables...
+2024-11-04 09:59:19,150 - INFO - Database 'real_estate_db' created successfully
+2024-11-04 09:59:19,290 - INFO - Locations table created/verified
+2024-11-04 09:59:19,297 - INFO - Price categories table created/verified
+2024-11-04 09:59:19,308 - INFO - Properties table created/verified
+2024-11-04 09:59:19,313 - INFO - Indexes created/verified
+2024-11-04 09:59:19,314 - INFO - Reading data from: C:\Users\berna\etl_project\data\interim\properties_cleaned_no_outliers.csv
+2024-11-04 09:59:19,422 - INFO - Successfully read 48333 rows from CSV
+2024-11-04 09:59:19,494 - INFO - Found 4 unique price categories
+2024-11-04 09:59:20,079 - INFO - Processed 1000 rows successfully
+2024-11-04 09:59:20,684 - INFO - Processed 2000 rows successfully
+2024-11-04 09:59:21,200 - INFO - Processed 3000 rows successfully
+2024-11-04 09:59:21,823 - INFO - Processed 4000 rows successfully
+2024-11-04 09:59:22,330 - INFO - Processed 5000 rows successfully
+2024-11-04 09:59:22,875 - INFO - Processed 6000 rows successfully
+2024-11-04 09:59:23,364 - INFO - Processed 7000 rows successfully
+2024-11-04 09:59:24,003 - INFO - Processed 8000 rows successfully
+2024-11-04 09:59:24,540 - INFO - Processed 9000 rows successfully
+2024-11-04 09:59:25,204 - INFO - Processed 10000 rows successfully
+2024-11-04 09:59:25,784 - INFO - Processed 11000 rows successfully
+2024-11-04 09:59:26,427 - INFO - Processed 12000 rows successfully
+2024-11-04 09:59:27,030 - INFO - Processed 13000 rows successfully
+2024-11-04 09:59:27,558 - INFO - Processed 14000 rows successfully
+2024-11-04 09:59:28,101 - INFO - Processed 15000 rows successfully
+2024-11-04 09:59:28,737 - INFO - Processed 16000 rows successfully
+2024-11-04 09:59:29,290 - INFO - Processed 17000 rows successfully
+2024-11-04 09:59:29,822 - INFO - Processed 18000 rows successfully
+2024-11-04 09:59:30,499 - INFO - Processed 19000 rows successfully
+2024-11-04 09:59:31,120 - INFO - Processed 20000 rows successfully
+2024-11-04 09:59:31,658 - INFO - Processed 21000 rows successfully
+2024-11-04 09:59:32,198 - INFO - Processed 22000 rows successfully
+2024-11-04 09:59:32,759 - INFO - Processed 23000 rows successfully
+2024-11-04 09:59:33,498 - INFO - Processed 24000 rows successfully
+2024-11-04 09:59:34,014 - INFO - Processed 25000 rows successfully
+2024-11-04 09:59:34,576 - INFO - Processed 26000 rows successfully
+2024-11-04 09:59:35,208 - INFO - Processed 27000 rows successfully
+2024-11-04 09:59:35,895 - INFO - Processed 28000 rows successfully
+2024-11-04 09:59:36,447 - INFO - Processed 29000 rows successfully
+2024-11-04 09:59:36,982 - INFO - Processed 30000 rows successfully
+2024-11-04 09:59:37,634 - INFO - Processed 31000 rows successfully
+2024-11-04 09:59:38,286 - INFO - Processed 32000 rows successfully
+2024-11-04 09:59:38,856 - INFO - Processed 33000 rows successfully
+2024-11-04 09:59:39,365 - INFO - Processed 34000 rows successfully
+2024-11-04 09:59:40,023 - INFO - Processed 35000 rows successfully
+2024-11-04 09:59:40,609 - INFO - Processed 36000 rows successfully
+2024-11-04 09:59:41,408 - INFO - Processed 37000 rows successfully
+2024-11-04 09:59:42,283 - INFO - Processed 38000 rows successfully
+2024-11-04 09:59:42,825 - INFO - Processed 39000 rows successfully
+2024-11-04 09:59:43,374 - INFO - Processed 40000 rows successfully
+2024-11-04 09:59:43,951 - INFO - Processed 41000 rows successfully
+2024-11-04 09:59:44,595 - INFO - Processed 42000 rows successfully
+2024-11-04 09:59:45,365 - INFO - Processed 43000 rows successfully
+2024-11-04 09:59:45,965 - INFO - Processed 44000 rows successfully
+2024-11-04 09:59:46,519 - INFO - Processed 45000 rows successfully
+2024-11-04 09:59:47,140 - INFO - Processed 46000 rows successfully
+2024-11-04 09:59:47,691 - INFO - Processed 47000 rows successfully
+2024-11-04 09:59:48,239 - INFO - Processed 48000 rows successfully
+2024-11-04 09:59:48,452 - INFO - Data insertion completed. Successful: 48333, Failed: 0
+2024-11-04 09:59:48,455 - INFO - Database connection closed
