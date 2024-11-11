@@ -108,21 +108,13 @@ etl_project/
 ├── load/
 │   └── load.py                 # Script de carga no banco
 │
-├── reports/
-│   ├── market_report.json
-│   └── scraping_report_20241106_171212.json
-│
 ├── SQL_viz/
 │   ├── results                # Resultados das análises
-│   │   ├── analysis_report_20241111.json
+│   │ 
 │   │   ├── investment_score_20241111.csv
-│   │   ├── investment_score_20241111.json
 │   │   ├── premium_analysis_20241111.csv
-│   │   ├── premium_analysis_20241111.json
 │   │   ├── regional_analysis_20241111.csv
-│   │   ├── regional_analysis_20241111.json
 │   │   ├── top_neighborhoods_20241111.csv
-│   │   └── top_neighborhoods_20241111.json
 │   ├── sql/                    # Queries SQL
 │   │   ├── investment_score.sql
 │   │   ├── premium_analysis.sql
@@ -138,7 +130,8 @@ etl_project/
 │   ├── price_per_m2_heatmap.png
 │   ├── property_type_distribution.png
 │   └── viz.py
-│
+├── market_report.json
+├── scraping_report_20241106_171212.json
 ├── .gitignore
 ├── accuracy.py
 ├── database_import.log
@@ -349,6 +342,7 @@ Para executar as análises SQL e gerar os relatórios:
 ```bash
 cd SQL_viz
 python main.py
+```
 
 Os resultados serão salvos em:
 
@@ -371,7 +365,7 @@ Para mais detalhes sobre as queries e análises específicas, consulte os arquiv
    - Ipojuca (PE) lidera com maior preço/m², mais de R$ 15.000,00
    - Nova Lima (MG) destacada no segmento luxo
    - Manaus (AM) apresenta mercado aquecido
-   - 
+   - Balneário Camburiú se destaca como melhor local para investimentos
 
 2. **Tendências Identificadas**
    - Concentração de alto valor em capitais
